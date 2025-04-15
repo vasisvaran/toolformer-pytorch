@@ -19,10 +19,10 @@ setup(
   ],
   install_requires=[
     'beartype',
-    'einops>=0.4',
-    'torch>=1.6',
+    'einops',
+    'torch',
     'tqdm',
-    'x-clip>=0.14.3'
+    'x-clip'
   ],
   classifiers=[
     'Development Status :: 4 - Beta',
